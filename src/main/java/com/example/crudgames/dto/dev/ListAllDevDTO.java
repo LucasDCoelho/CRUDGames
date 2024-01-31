@@ -1,7 +1,6 @@
-package com.example.crudgames.dto;
+package com.example.crudgames.dto.dev;
 
 import com.example.crudgames.model.Dev;
-import jakarta.validation.constraints.NotBlank;
 
 import java.time.LocalDate;
 

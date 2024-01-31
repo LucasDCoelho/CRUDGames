@@ -1,9 +1,9 @@
 package com.example.crudgames.controller;
 
-import com.example.crudgames.dto.DetailDevDTO;
-import com.example.crudgames.dto.ListAllDevDTO;
-import com.example.crudgames.dto.RegisterDevDTO;
-import com.example.crudgames.dto.UpdateDevDTO;
+import com.example.crudgames.dto.dev.DetailDevDTO;
+import com.example.crudgames.dto.dev.ListAllDevDTO;
+import com.example.crudgames.dto.dev.RegisterDevDTO;
+import com.example.crudgames.dto.dev.UpdateDevDTO;
 import com.example.crudgames.model.Dev;
 import com.example.crudgames.repository.DevRepository;
 import jakarta.validation.Valid;

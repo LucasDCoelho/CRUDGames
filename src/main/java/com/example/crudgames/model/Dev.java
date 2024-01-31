@@ -1,7 +1,7 @@
 package com.example.crudgames.model;
 
-import com.example.crudgames.dto.RegisterDevDTO;
-import com.example.crudgames.dto.UpdateDevDTO;
+import com.example.crudgames.dto.dev.RegisterDevDTO;
+import com.example.crudgames.dto.dev.UpdateDevDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

@@ -1,4 +1,4 @@
-package com.example.crudgames.dto;
+package com.example.crudgames.dto.dev;
 
 import jakarta.validation.constraints.NotNull;
 
