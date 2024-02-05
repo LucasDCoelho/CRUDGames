@@ -1,4 +1,4 @@
-package com.example.crudgames.dto.dev;
+package com.example.crudgames.domain.dto.dev;
 
 import jakarta.validation.constraints.NotNull;
 

@@ -1,4 +1,4 @@
-package com.example.crudgames.dto.console;
+package com.example.crudgames.domain.dto.console;
 
 import jakarta.validation.constraints.NotNull;
 

@@ -1,15 +1,20 @@
-package com.example.crudgames.dto.console;
+package com.example.crudgames.domain.dto.dev;
 
 import jakarta.validation.constraints.NotBlank;
 
 import java.time.LocalDate;
 
-public record RegisterConsoleDTO(
+public record RegisterDevDTO(
+
         @NotBlank
         String nome,
+
+        LocalDate dataFundacao,
+
         @NotBlank
-        LocalDate dataLancamento,
+        String website,
+
         @NotBlank
-        String empresa
+        String sede
 ) {
 }

@@ -1,6 +1,6 @@
-package com.example.crudgames.dto.dev;
+package com.example.crudgames.domain.dto.dev;
 
-import com.example.crudgames.model.Dev;
+import com.example.crudgames.domain.model.Dev;
 
 import java.time.LocalDate;
 
